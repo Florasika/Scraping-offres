@@ -222,14 +222,6 @@ ax3.xaxis.set_major_formatter(plt.FuncFormatter(lambda v, _: f'{v/1000:.0f}k€'
 
 ---
 
-##  Prochains projets
-
-| Jour | Projet | Concepts |
-|------|--------|----------|
-| **Jour 6** | Analyse de Texte & WordCloud | `re`, `Counter`, `WordCloud` |
-| **Jour 7** | Régression Linéaire | `scikit-learn`, `LinearRegression` |
-| **Jour 8** | Classification Spam/Ham | `TfidfVectorizer`, `LogisticRegression` |
-
 ---
 
 
