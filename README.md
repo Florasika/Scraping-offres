@@ -232,11 +232,6 @@ ax3.xaxis.set_major_formatter(plt.FuncFormatter(lambda v, _: f'{v/1000:.0f}k€'
 
 ---
 
-##  Me suivre
-
-- 🔗 **LinkedIn** : [linkedin.com/in/ton-profil]()
-- 📸 **Instagram** : [@ton_compte]()
-- 🐙 **GitHub** : [github.com/ton-pseudo]()
 
 ---
 
