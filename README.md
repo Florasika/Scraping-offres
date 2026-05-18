@@ -1,7 +1,7 @@
 #  Day 05 — Scraping d'Offres d'Emploi avec Python
 
 > **Série : 30 Days of Python for Data** · Jour 5/30  
-> Publié sur [LinkedIn]() · [Instagram]()
+> Publié sur [LinkedIn]() 
 
 ---
 
