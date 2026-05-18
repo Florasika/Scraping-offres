@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "poste": "Data Analyst",
+    "ville": "Remote",
+    "contrat": "CDI",
+    "niveau": "Senior (5+ ans)",
+    "salaire": 61648,
+    "competences": "Tableau, Power BI",
+    "date": "2026-04-25"
+  },
+  {
+    "id": 2,
+    "poste": "Data Analyst",
+    "ville": "Nantes",
+    "contrat": "CDD",
+    "niveau": "Junior (0-2 ans)",
+    "salaire": 40935,
+    "competences": "Python, SQL",
+    "date": "2026-05-12"
+  },
+  {
+    "id": 3,
+    "poste": "BI Developer",
+    "ville": "Paris",
+    "contrat": "Alternance",
+    "niveau": "Junior (0-2 ans)",
+    "salaire": 40279,
+    "competences": "Scikit-learn, dbt",
+    "date": "2026-05-11"
+  },
+  {
+    "id": 4,
+    "poste": "Data Engineer",
+    "ville": "Paris",
+    "contrat": "Freelance",
+    "niveau": "Mid (2-5 ans)",
+    "salaire": 51654,
+    "competences": "dbt, Docker",
+    "date": "2026-05-10"
+  },
+  {
+    "id": 5,
+    "poste": "Data Engineer",
+    "ville": "Paris",
+    "contrat": "CDI",
+    "niveau": "Junior (0-2 ans)",
+    "salaire": 35527,
+    "competences": "SQL, Docker, Scikit-learn",
+    "date": "2026-04-29"
+  },
+  {
+    "id": 6,
+    "poste": "Data Analyst",
+    "ville": "Remote",
+    "contrat": "CDD",
+    "niveau": "Mid (2-5 ans)",
+    "salaire": 55223,
+    "competences": "SQL, dbt, TensorFlow, Spark",
+    "date": "2026-05-09"
+  },
+  {
+    "id": 7,
+    "poste": "Data Engineer",
+    "ville": "Nantes",
+    "contrat": "CDI",
+    "niveau": "Senior (5+ ans)",
+    "salaire": 78267,
+    "competences": "SQL, Python, Tableau, dbt",
+    "date": "2026-05-09"
+  },
+  {
+    "id": 8,
+    "poste": "Data Analyst",
+    "ville": "Toulouse",
+    "contrat": "CDI",
+    "niveau": "Junior (0-2 ans)",
+    "salaire": 35814,
+    "competences": "Docker, Power BI, TensorFlow",
+    "date": "2026-05-07"
+  },
+  {
+    "id": 9,
+    "poste": "Analytics Engineer",
+    "ville": "Remote",
+    "contrat": "Stage",
+    "niveau": "Junior (0-2 ans)",
+    "salaire": 36374,
+    "competences": "TensorFlow, Power BI",
+    "date": "2026-05-01"
+  },
+  {
+    "id": 10,
+    "poste": "Data Scientist",
+    "ville": "Toulouse",
+    "contrat": "CDD",
+    "niveau": "Senior (5+ ans)",
+    "salaire": 66021,
+    "competences": "Scikit-learn, Tableau, Docker",
+    "date": "2026-04-22"
+  },
+  {
+    "id": 11,
+    "poste": "Data Analyst",
+    "ville": "Bordeaux",
+    "contrat": "CDD",
+    "niveau": "Junior (0-2 ans)",
+    "salaire": 35752,
+    "competences": "SQL, Tableau, Docker",
+    "date": "2026-05-12"
+  },
+  {
+    "id": 12,
+    "poste": "ML Engineer",
+    "ville": "Remote",
+    "contrat": "CDD",
+    "niveau": "Senior (5+ ans)",
+    "salaire": 74358,
+    "competences": "Spark, Power BI",
+    "date": "2026-05-11"
+  },
+  {
+    "id": 13,
+    "poste": "BI Developer",
+    "ville": "Bordeaux",
+    "contrat": "Stage",
+    "niveau": "Senior (5+ ans)",
+    "salaire": 76394,
+    "competences": "dbt, TensorFlow, Docker, SQL",
+    "date": "2026-05-14"
+  },
+  {
+    "id": 14,
+    "poste": "Data Analyst",
+    "ville": "Paris",
+    "contrat": "Freelance",
+    "niveau": "Senior (5+ ans)",
+    "salaire": 74171,
+    "competences": "Power BI, TensorFlow",
+    "date": "2026-04-23"
+  },
+  {
+    "id": 15,
+    "poste": "BI Developer",
+    "ville": "Paris",
+    "contrat": "CDD",
+    "niveau": "Senior (5+ ans)",
+    "salaire": 71833,
+    "competences": "TensorFlow, Airflow, Spark",
+    "date": "2026-05-01"
+  },
+  {
+    "id": 16,
+    "poste": "Analytics Engineer",
+    "ville": "Nantes",
+    "contrat": "Freelance",
+    "niveau": "Junior (0-2 ans)",
+    "salaire": 33876,
+    "competences": "Docker, SQL, Spark",
+    "date": "2026-05-05"
+  },
+  {
+    "id": 17,
+    "poste": "Data Analyst",
+    "ville": "Remote",
+    "contrat": "Stage",
+    "niveau": "Junior (0-2 ans)",
+    "salaire": 39433,
+    "competences": "Scikit-learn, Power BI, SQL",
+    "date": "2026-04-21"
+  },
+  {
+    "id": 18,
+    "poste": "Analytics Engineer",
+    "ville": "Nantes",
+    "contrat": "Alternance",
+    "niveau": "Senior (5+ ans)",
+    "salaire": 67779,
+    "competences": "Power BI, Docker",
+    "date": "2026-04-24"
+  },
+  {
+    "id": 19,
+    "poste": "BI Developer",
+    "ville": "Paris",
+    "contrat": "Alternance",
+    "niveau": "Junior (0-2 ans)",
+    "salaire": 40837,
+    "competences": "Airflow, Python, SQL",
+    "date": "2026-04-19"
+  },
+  {
+    "id": 20,
+    "poste": "Data Engineer",
+    "ville": "Lyon",
+    "contrat": "CDI",
+    "niveau": "Mid (2-5 ans)",
+    "salaire": 56396,
+    "competences": "TensorFlow, SQL",
+    "date": "2026-05-16"
+  },
+  {
+    "id": 21,
+    "poste": "Data Analyst",
+    "ville": "Nantes",
+    "contrat": "Freelance",
+    "niveau": "Senior (5+ ans)",
+    "salaire": 73924,
+    "competences": "Power BI, Airflow",
+    "date": "2026-04-18"
+  },
+  {
+    "id": 22,
+    "poste": "Data Engineer",
+    "ville": "Nantes",
+    "contrat": "Freelance",
+    "niveau": "Senior (5+ ans)",
+    "salaire": 63410,
+    "competences": "dbt, Tableau, Scikit-learn, Docker",
+    "date": "2026-05-09"
+  },
+  {
+    "id": 23,
+    "poste": "Analytics Engineer",
+    "ville": "Bordeaux",
+    "contrat": "CDD",
+    "niveau": "Mid (2-5 ans)",
+    "salaire": 53004,
+    "competences": "Airflow, SQL, Tableau, Scikit-learn",
+    "date": "2026-05-16"
+  },
+  {
+    "id": 24,
+    "poste": "BI Developer",
+    "ville": "Nantes",
+    "contrat": "CDI",
+    "niveau": "Mid (2-5 ans)",
+    "salaire": 42344,
+    "competences": "Tableau, Python, SQL, Docker",
+    "date": "2026-04-28"
+  },
+  {
+    "id": 25,
+    "poste": "Data Analyst",
+    "ville": "Paris",
+    "contrat": "Freelance",
+    "niveau": "Junior (0-2 ans)",
+    "salaire": 35750,
+    "competences": "SQL, Scikit-learn, Tableau",
+    "date": "2026-05-10"
+  },
+  {
+    "id": 26,
+    "poste": "Data Scientist",
+    "ville": "Nantes",
+    "contrat": "CDI",
+    "niveau": "Senior (5+ ans)",
+    "salaire": 73906,
+    "competences": "TensorFlow, Airflow, Tableau, dbt",
+    "date": "2026-05-03"
+  },
+  {
+    "id": 27,
+    "poste": "Data Analyst",
+    "ville": "Paris",
+    "contrat": "Stage",
+    "niveau": "Mid (2-5 ans)",
+    "salaire": 45119,
+    "competences": "Docker, dbt, Scikit-learn",
+    "date": "2026-05-04"
+  },
+  {
+    "id": 28,
+    "poste": "Analytics Engineer",
+    "ville": "Remote",
+    "contrat": "Stage",
+    "niveau": "Senior (5+ ans)",
+    "salaire": 59775,
+    "competences": "Python, dbt",
+    "date": "2026-04-25"
+  },
+  {
+    "id": 29,
+    "poste": "Data Analyst",
+    "ville": "Lyon",
+    "contrat": "CDI",
+    "niveau": "Mid (2-5 ans)",
+    "salaire": 55116,
+    "competences": "Scikit-learn, Airflow",
+    "date": "2026-05-14"
+  },
+  {
+    "id": 30,
+    "poste": "Data Engineer",
+    "ville": "Toulouse",
+    "contrat": "CDI",
+    "niveau": "Mid (2-5 ans)",
+    "salaire": 45006,
+    "competences": "Airflow, Scikit-learn",
+    "date": "2026-05-15"
+  },
+  {
+    "id": 31,
+    "poste": "Data Analyst",
+    "ville": "Paris",
+    "contrat": "Freelance",
+    "niveau": "Junior (0-2 ans)",
+    "salaire": 40856,
+    "competences": "Power BI, dbt",
+    "date": "2026-05-03"
+  },
+  {
+    "id": 32,
+    "poste": "ML Engineer",
+    "ville": "Paris",
+    "contrat": "CDI",
+    "niveau": "Mid (2-5 ans)",
+    "salaire": 45502,
+    "competences": "Python, dbt, Spark",
+    "date": "2026-04-19"
+  },
+  {
+    "id": 33,
+    "poste": "ML Engineer",
+    "ville": "Remote",
+    "contrat": "Stage",
+    "niveau": "Mid (2-5 ans)",
+    "salaire": 46673,
+    "competences": "Airflow, Power BI, Tableau, Scikit-learn",
+    "date": "2026-05-12"
+  },
+  {
+    "id": 34,
+    "poste": "Analytics Engineer",
+    "ville": "Nantes",
+    "contrat": "CDI",
+    "niveau": "Junior (0-2 ans)",
+    "salaire": 41489,
+    "competences": "Docker, Python, Scikit-learn, Spark",
+    "date": "2026-05-03"
+  },
+  {
+    "id": 35,
+    "poste": "Data Scientist",
+    "ville": "Paris",
+    "contrat": "Alternance",
+    "niveau": "Senior (5+ ans)",
+    "salaire": 75403,
+    "competences": "Power BI, SQL",
+    "date": "2026-04-29"
+  },
+  {
+    "id": 36,
+    "poste": "ML Engineer",
+    "ville": "Paris",
+    "contrat": "Alternance",
+    "niveau": "Junior (0-2 ans)",
+    "salaire": 35853,
+    "competences": "TensorFlow, Python",
+    "date": "2026-04-29"
+  },
+  {
+    "id": 37,
+    "poste": "Analytics Engineer",
+    "ville": "Nantes",
+    "contrat": "Alternance",
+    "niveau": "Junior (0-2 ans)",
+    "salaire": 38868,
+    "competences": "Docker, Spark, Tableau, TensorFlow",
+    "date": "2026-04-26"
+  },
+  {
+    "id": 38,
+    "poste": "Data Engineer",
+    "ville": "Toulouse",
+    "contrat": "CDI",
+    "niveau": "Mid (2-5 ans)",
+    "salaire": 45910,
+    "competences": "Spark, Airflow, Docker, dbt",
+    "date": "2026-04-19"
+  },
+  {
+    "id": 39,
+    "poste": "ML Engineer",
+    "ville": "Nantes",
+    "contrat": "Alternance",
+    "niveau": "Junior (0-2 ans)",
+    "salaire": 32152,
+    "competences": "SQL, Scikit-learn",
+    "date": "2026-05-12"
+  },
+  {
+    "id": 40,
+    "poste": "Data Scientist",
+    "ville": "Bordeaux",
+    "contrat": "CDI",
+    "niveau": "Senior (5+ ans)",
+    "salaire": 66690,
+    "competences": "Docker, Spark",
+    "date": "2026-05-13"
+  },
+  {
+    "id": 41,
+    "poste": "BI Developer",
+    "ville": "Remote",
+    "contrat": "CDI",
+    "niveau": "Mid (2-5 ans)",
+    "salaire": 55660,
+    "competences": "Scikit-learn, Python, Spark, Docker",
+    "date": "2026-05-15"
+  },
+  {
+    "id": 42,
+    "poste": "Data Analyst",
+    "ville": "Paris",
+    "contrat": "Stage",
+    "niveau": "Junior (0-2 ans)",
+    "salaire": 36333,
+    "competences": "Power BI, Spark, Scikit-learn, Airflow",
+    "date": "2026-05-12"
+  },
+  {
+    "id": 43,
+    "poste": "Data Scientist",
+    "ville": "Remote",
+    "contrat": "Stage",
+    "niveau": "Senior (5+ ans)",
+    "salaire": 69235,
+    "competences": "Scikit-learn, Airflow, Spark",
+    "date": "2026-04-20"
+  },
+  {
+    "id": 44,
+    "poste": "Analytics Engineer",
+    "ville": "Toulouse",
+    "contrat": "Freelance",
+    "niveau": "Junior (0-2 ans)",
+    "salaire": 33512,
+    "competences": "Python, TensorFlow, Docker",
+    "date": "2026-04-24"
+  },
+  {
+    "id": 45,
+    "poste": "Data Scientist",
+    "ville": "Remote",
+    "contrat": "CDD",
+    "niveau": "Junior (0-2 ans)",
+    "salaire": 36291,
+    "competences": "dbt, Scikit-learn, Python, Airflow",
+    "date": "2026-05-16"
+  },
+  {
+    "id": 46,
+    "poste": "BI Developer",
+    "ville": "Paris",
+    "contrat": "Freelance",
+    "niveau": "Senior (5+ ans)",
+    "salaire": 62884,
+    "competences": "TensorFlow, Scikit-learn, Power BI",
+    "date": "2026-05-05"
+  },
+  {
+    "id": 47,
+    "poste": "Data Engineer",
+    "ville": "Bordeaux",
+    "contrat": "Freelance",
+    "niveau": "Junior (0-2 ans)",
+    "salaire": 32685,
+    "competences": "Docker, Tableau",
+    "date": "2026-04-27"
+  },
+  {
+    "id": 48,
+    "poste": "Data Engineer",
+    "ville": "Nantes",
+    "contrat": "Freelance",
+    "niveau": "Junior (0-2 ans)",
+    "salaire": 33684,
+    "competences": "TensorFlow, Power BI, Tableau",
+    "date": "2026-04-21"
+  },
+  {
+    "id": 49,
+    "poste": "ML Engineer",
+    "ville": "Paris",
+    "contrat": "CDI",
+    "niveau": "Junior (0-2 ans)",
+    "salaire": 34900,
+    "competences": "Docker, dbt, Tableau, Power BI",
+    "date": "2026-05-13"
+  },
+  {
+    "id": 50,
+    "poste": "ML Engineer",
+    "ville": "Paris",
+    "contrat": "Freelance",
+    "niveau": "Senior (5+ ans)",
+    "salaire": 61542,
+    "competences": "Tableau, TensorFlow, Airflow",
+    "date": "2026-05-07"
+  },
+  {
+    "id": 51,
+    "poste": "Data Scientist",
+    "ville": "Lyon",
+    "contrat": "CDI",
+    "niveau": "Mid (2-5 ans)",
+    "salaire": 55443,
+    "competences": "Tableau, dbt, Docker, Power BI",
+    "date": "2026-04-21"
+  },
+  {
+    "id": 52,
+    "poste": "Data Engineer",
+    "ville": "Remote",
+    "contrat": "Alternance",
+    "niveau": "Junior (0-2 ans)",
+    "salaire": 36573,
+    "competences": "Scikit-learn, Docker, Python",
+    "date": "2026-05-15"
+  },
+  {
+    "id": 53,
+    "poste": "BI Developer",
+    "ville": "Bordeaux",
+    "contrat": "CDI",
+    "niveau": "Mid (2-5 ans)",
+    "salaire": 44925,
+    "competences": "TensorFlow, dbt",
+    "date": "2026-05-07"
+  },
+  {
+    "id": 54,
+    "poste": "ML Engineer",
+    "ville": "Nantes",
+    "contrat": "Alternance",
+    "niveau": "Senior (5+ ans)",
+    "salaire": 68278,
+    "competences": "dbt, Tableau",
+    "date": "2026-05-10"
+  },
+  {
+    "id": 55,
+    "poste": "Data Analyst",
+    "ville": "Nantes",
+    "contrat": "Freelance",
+    "niveau": "Junior (0-2 ans)",
+    "salaire": 39144,
+    "competences": "Tableau, Docker, dbt, Python",
+    "date": "2026-04-18"
+  },
+  {
+    "id": 56,
+    "poste": "BI Developer",
+    "ville": "Bordeaux",
+    "contrat": "Stage",
+    "niveau": "Senior (5+ ans)",
+    "salaire": 68819,
+    "competences": "Spark, Scikit-learn",
+    "date": "2026-05-09"
+  },
+  {
+    "id": 57,
+    "poste": "Data Engineer",
+    "ville": "Toulouse",
+    "contrat": "Stage",
+    "niveau": "Senior (5+ ans)",
+    "salaire": 71382,
+    "competences": "Scikit-learn, Power BI, Tableau",
+    "date": "2026-05-05"
+  },
+  {
+    "id": 58,
+    "poste": "Analytics Engineer",
+    "ville": "Remote",
+    "contrat": "CDI",
+    "niveau": "Senior (5+ ans)",
+    "salaire": 70423,
+    "competences": "TensorFlow, Spark, dbt, Scikit-learn",
+    "date": "2026-04-22"
+  },
+  {
+    "id": 59,
+    "poste": "Data Engineer",
+    "ville": "Lyon",
+    "contrat": "CDD",
+    "niveau": "Junior (0-2 ans)",
+    "salaire": 36978,
+    "competences": "TensorFlow, Docker, Airflow, Tableau",
+    "date": "2026-05-04"
+  },
+  {
+    "id": 60,
+    "poste": "BI Developer",
+    "ville": "Toulouse",
+    "contrat": "Freelance",
+    "niveau": "Senior (5+ ans)",
+    "salaire": 65002,
+    "competences": "Power BI, SQL, Spark, Airflow",
+    "date": "2026-04-27"
+  },
+  {
+    "id": 61,
+    "poste": "Data Engineer",
+    "ville": "Paris",
+    "contrat": "Freelance",
+    "niveau": "Senior (5+ ans)",
+    "salaire": 78291,
+    "competences": "Spark, Tableau",
+    "date": "2026-04-23"
+  },
+  {
+    "id": 62,
+    "poste": "Data Analyst",
+    "ville": "Paris",
+    "contrat": "CDI",
+    "niveau": "Junior (0-2 ans)",
+    "salaire": 34414,
+    "competences": "TensorFlow, SQL, Airflow",
+    "date": "2026-05-05"
+  },
+  {
+    "id": 63,
+    "poste": "Data Scientist",
+    "ville": "Remote",
+    "contrat": "Stage",
+    "niveau": "Senior (5+ ans)",
+    "salaire": 76863,
+    "competences": "Airflow, dbt, Tableau",
+    "date": "2026-05-14"
+  },
+  {
+    "id": 64,
+    "poste": "Data Analyst",
+    "ville": "Toulouse",
+    "contrat": "CDI",
+    "niveau": "Senior (5+ ans)",
+    "salaire": 58181,
+    "competences": "Scikit-learn, Airflow",
+    "date": "2026-05-17"
+  },
+  {
+    "id": 65,
+    "poste": "Data Analyst",
+    "ville": "Toulouse",
+    "contrat": "CDI",
+    "niveau": "Senior (5+ ans)",
+    "salaire": 66165,
+    "competences": "Scikit-learn, TensorFlow, Docker",
+    "date": "2026-04-18"
+  },
+  {
+    "id": 66,
+    "poste": "Analytics Engineer",
+    "ville": "Nantes",
+    "contrat": "CDD",
+    "niveau": "Mid (2-5 ans)",
+    "salaire": 52037,
+    "competences": "Airflow, Power BI, TensorFlow, Tableau",
+    "date": "2026-05-10"
+  },
+  {
+    "id": 67,
+    "poste": "BI Developer",
+    "ville": "Toulouse",
+    "contrat": "Stage",
+    "niveau": "Junior (0-2 ans)",
+    "salaire": 36543,
+    "competences": "Spark, Airflow",
+    "date": "2026-05-16"
+  },
+  {
+    "id": 68,
+    "poste": "Data Scientist",
+    "ville": "Bordeaux",
+    "contrat": "CDI",
+    "niveau": "Senior (5+ ans)",
+    "salaire": 67362,
+    "competences": "Scikit-learn, SQL, Power BI",
+    "date": "2026-05-14"
+  },
+  {
+    "id": 69,
+    "poste": "Analytics Engineer",
+    "ville": "Lyon",
+    "contrat": "Stage",
+    "niveau": "Junior (0-2 ans)",
+    "salaire": 38275,
+    "competences": "SQL, dbt",
+    "date": "2026-05-05"
+  },
+  {
+    "id": 70,
+    "poste": "ML Engineer",
+    "ville": "Toulouse",
+    "contrat": "CDI",
+    "niveau": "Mid (2-5 ans)",
+    "salaire": 50890,
+    "competences": "dbt, TensorFlow",
+    "date": "2026-04-20"
+  },
+  {
+    "id": 71,
+    "poste": "BI Developer",
+    "ville": "Toulouse",
+    "contrat": "CDD",
+    "niveau": "Senior (5+ ans)",
+    "salaire": 58640,
+    "competences": "Docker, Spark",
+    "date": "2026-04-24"
+  },
+  {
+    "id": 72,
+    "poste": "ML Engineer",
+    "ville": "Nantes",
+    "contrat": "Stage",
+    "niveau": "Mid (2-5 ans)",
+    "salaire": 55982,
+    "competences": "Scikit-learn, Tableau, Airflow, SQL",
+    "date": "2026-05-10"
+  },
+  {
+    "id": 73,
+    "poste": "Data Analyst",
+    "ville": "Toulouse",
+    "contrat": "CDI",
+    "niveau": "Mid (2-5 ans)",
+    "salaire": 49956,
+    "competences": "dbt, Power BI, Airflow, SQL",
+    "date": "2026-04-29"
+  },
+  {
+    "id": 74,
+    "poste": "ML Engineer",
+    "ville": "Nantes",
+    "contrat": "Alternance",
+    "niveau": "Senior (5+ ans)",
+    "salaire": 58883,
+    "competences": "Python, SQL, dbt, Scikit-learn",
+    "date": "2026-04-21"
+  },
+  {
+    "id": 75,
+    "poste": "Data Analyst",
+    "ville": "Bordeaux",
+    "contrat": "CDD",
+    "niveau": "Mid (2-5 ans)",
+    "salaire": 44977,
+    "competences": "Tableau, Airflow, Docker",
+    "date": "2026-05-08"
+  },
+  {
+    "id": 76,
+    "poste": "ML Engineer",
+    "ville": "Bordeaux",
+    "contrat": "Freelance",
+    "niveau": "Mid (2-5 ans)",
+    "salaire": 46558,
+    "competences": "Airflow, Python",
+    "date": "2026-04-25"
+  },
+  {
+    "id": 77,
+    "poste": "Data Engineer",
+    "ville": "Lyon",
+    "contrat": "Stage",
+    "niveau": "Senior (5+ ans)",
+    "salaire": 59706,
+    "competences": "Python, TensorFlow",
+    "date": "2026-04-18"
+  },
+  {
+    "id": 78,
+    "poste": "Data Analyst",
+    "ville": "Nantes",
+    "contrat": "CDI",
+    "niveau": "Junior (0-2 ans)",
+    "salaire": 35266,
+    "competences": "Power BI, Airflow",
+    "date": "2026-04-27"
+  },
+  {
+    "id": 79,
+    "poste": "Data Scientist",
+    "ville": "Toulouse",
+    "contrat": "Stage",
+    "niveau": "Junior (0-2 ans)",
+    "salaire": 41240,
+    "competences": "Docker, Power BI, SQL",
+    "date": "2026-04-24"
+  },
+  {
+    "id": 80,
+    "poste": "Data Analyst",
+    "ville": "Nantes",
+    "contrat": "CDI",
+    "niveau": "Junior (0-2 ans)",
+    "salaire": 37096,
+    "competences": "TensorFlow, dbt, Scikit-learn",
+    "date": "2026-04-18"
+  },
+  {
+    "id": 81,
+    "poste": "Data Analyst",
+    "ville": "Nantes",
+    "contrat": "Stage",
+    "niveau": "Senior (5+ ans)",
+    "salaire": 64498,
+    "competences": "Tableau, SQL, Spark, dbt",
+    "date": "2026-04-27"
+  },
+  {
+    "id": 82,
+    "poste": "BI Developer",
+    "ville": "Paris",
+    "contrat": "CDI",
+    "niveau": "Senior (5+ ans)",
+    "salaire": 61966,
+    "competences": "dbt, Docker, SQL, Spark",
+    "date": "2026-04-28"
+  },
+  {
+    "id": 83,
+    "poste": "ML Engineer",
+    "ville": "Toulouse",
+    "contrat": "CDI",
+    "niveau": "Mid (2-5 ans)",
+    "salaire": 42207,
+    "competences": "Docker, Airflow, Power BI",
+    "date": "2026-05-05"
+  },
+  {
+    "id": 84,
+    "poste": "Analytics Engineer",
+    "ville": "Bordeaux",
+    "contrat": "Alternance",
+    "niveau": "Junior (0-2 ans)",
+    "salaire": 40548,
+    "competences": "Airflow, TensorFlow, dbt, Scikit-learn",
+    "date": "2026-04-25"
+  },
+  {
+    "id": 85,
+    "poste": "Data Engineer",
+    "ville": "Lyon",
+    "contrat": "Freelance",
+    "niveau": "Senior (5+ ans)",
+    "salaire": 66794,
+    "competences": "Spark, Airflow",
+    "date": "2026-05-11"
+  },
+  {
+    "id": 86,
+    "poste": "BI Developer",
+    "ville": "Remote",
+    "contrat": "CDD",
+    "niveau": "Mid (2-5 ans)",
+    "salaire": 51336,
+    "competences": "Python, Airflow, Docker",
+    "date": "2026-05-13"
+  },
+  {
+    "id": 87,
+    "poste": "Data Engineer",
+    "ville": "Bordeaux",
+    "contrat": "CDI",
+    "niveau": "Mid (2-5 ans)",
+    "salaire": 45475,
+    "competences": "TensorFlow, Spark, Python",
+    "date": "2026-05-02"
+  },
+  {
+    "id": 88,
+    "poste": "Data Scientist",
+    "ville": "Remote",
+    "contrat": "CDD",
+    "niveau": "Junior (0-2 ans)",
+    "salaire": 33402,
+    "competences": "Scikit-learn, Tableau, Airflow",
+    "date": "2026-04-28"
+  },
+  {
+    "id": 89,
+    "poste": "ML Engineer",
+    "ville": "Paris",
+    "contrat": "CDI",
+    "niveau": "Senior (5+ ans)",
+    "salaire": 74083,
+    "competences": "Tableau, dbt, TensorFlow",
+    "date": "2026-05-09"
+  },
+  {
+    "id": 90,
+    "poste": "Data Engineer",
+    "ville": "Toulouse",
+    "contrat": "Alternance",
+    "niveau": "Senior (5+ ans)",
+    "salaire": 77056,
+    "competences": "Docker, dbt, TensorFlow, Power BI",
+    "date": "2026-04-26"
+  },
+  {
+    "id": 91,
+    "poste": "Data Engineer",
+    "ville": "Bordeaux",
+    "contrat": "CDI",
+    "niveau": "Mid (2-5 ans)",
+    "salaire": 46438,
+    "competences": "Tableau, Docker",
+    "date": "2026-05-15"
+  },
+  {
+    "id": 92,
+    "poste": "Analytics Engineer",
+    "ville": "Lyon",
+    "contrat": "CDI",
+    "niveau": "Senior (5+ ans)",
+    "salaire": 75559,
+    "competences": "Airflow, Spark",
+    "date": "2026-04-25"
+  },
+  {
+    "id": 93,
+    "poste": "BI Developer",
+    "ville": "Bordeaux",
+    "contrat": "CDI",
+    "niveau": "Senior (5+ ans)",
+    "salaire": 75191,
+    "competences": "Spark, Tableau",
+    "date": "2026-05-07"
+  },
+  {
+    "id": 94,
+    "poste": "Data Analyst",
+    "ville": "Remote",
+    "contrat": "Alternance",
+    "niveau": "Junior (0-2 ans)",
+    "salaire": 36952,
+    "competences": "Spark, Python",
+    "date": "2026-05-17"
+  },
+  {
+    "id": 95,
+    "poste": "Analytics Engineer",
+    "ville": "Lyon",
+    "contrat": "Stage",
+    "niveau": "Senior (5+ ans)",
+    "salaire": 67572,
+    "competences": "SQL, Python, Spark",
+    "date": "2026-05-03"
+  },
+  {
+    "id": 96,
+    "poste": "Data Engineer",
+    "ville": "Lyon",
+    "contrat": "CDI",
+    "niveau": "Mid (2-5 ans)",
+    "salaire": 49216,
+    "competences": "Airflow, SQL, Scikit-learn",
+    "date": "2026-05-06"
+  },
+  {
+    "id": 97,
+    "poste": "BI Developer",
+    "ville": "Remote",
+    "contrat": "Stage",
+    "niveau": "Mid (2-5 ans)",
+    "salaire": 43213,
+    "competences": "Power BI, TensorFlow",
+    "date": "2026-04-23"
+  },
+  {
+    "id": 98,
+    "poste": "Data Analyst",
+    "ville": "Lyon",
+    "contrat": "CDI",
+    "niveau": "Senior (5+ ans)",
+    "salaire": 67956,
+    "competences": "dbt, Tableau, TensorFlow, Scikit-learn",
+    "date": "2026-04-19"
+  },
+  {
+    "id": 99,
+    "poste": "BI Developer",
+    "ville": "Toulouse",
+    "contrat": "CDI",
+    "niveau": "Mid (2-5 ans)",
+    "salaire": 46871,
+    "competences": "TensorFlow, Python, SQL, dbt",
+    "date": "2026-05-12"
+  },
+  {
+    "id": 100,
+    "poste": "Data Engineer",
+    "ville": "Remote",
+    "contrat": "CDI",
+    "niveau": "Senior (5+ ans)",
+    "salaire": 64914,
+    "competences": "Tableau, Power BI",
+    "date": "2026-05-01"
+  },
+  {
+    "id": 101,
+    "poste": "Data Analyst",
+    "ville": "Toulouse",
+    "contrat": "CDD",
+    "niveau": "Junior (0-2 ans)",
+    "salaire": 34564,
+    "competences": "TensorFlow, Airflow, Spark, Python",
+    "date": "2026-05-11"
+  },
+  {
+    "id": 102,
+    "poste": "Data Engineer",
+    "ville": "Remote",
+    "contrat": "Freelance",
+    "niveau": "Mid (2-5 ans)",
+    "salaire": 53582,
+    "competences": "SQL, Tableau, Spark",
+    "date": "2026-04-23"
+  },
+  {
+    "id": 103,
+    "poste": "Analytics Engineer",
+    "ville": "Lyon",
+    "contrat": "CDD",
+    "niveau": "Senior (5+ ans)",
+    "salaire": 77326,
+    "competences": "Scikit-learn, Tableau",
+    "date": "2026-04-28"
+  },
+  {
+    "id": 104,
+    "poste": "Data Scientist",
+    "ville": "Paris",
+    "contrat": "CDI",
+    "niveau": "Junior (0-2 ans)",
+    "salaire": 36352,
+    "competences": "Spark, TensorFlow",
+    "date": "2026-05-04"
+  },
+  {
+    "id": 105,
+    "poste": "Analytics Engineer",
+    "ville": "Bordeaux",
+    "contrat": "Stage",
+    "niveau": "Junior (0-2 ans)",
+    "salaire": 39679,
+    "competences": "Spark, Scikit-learn, Airflow",
+    "date": "2026-05-04"
+  },
+  {
+    "id": 106,
+    "poste": "Data Analyst",
+    "ville": "Toulouse",
+    "contrat": "Stage",
+    "niveau": "Junior (0-2 ans)",
+    "salaire": 41798,
+    "competences": "TensorFlow, Spark, Python",
+    "date": "2026-05-16"
+  },
+  {
+    "id": 107,
+    "poste": "BI Developer",
+    "ville": "Paris",
+    "contrat": "Freelance",
+    "niveau": "Junior (0-2 ans)",
+    "salaire": 41424,
+    "competences": "Spark, Python, Power BI, Tableau",
+    "date": "2026-05-02"
+  },
+  {
+    "id": 108,
+    "poste": "Data Engineer",
+    "ville": "Lyon",
+    "contrat": "Alternance",
+    "niveau": "Senior (5+ ans)",
+    "salaire": 72490,
+    "competences": "Airflow, SQL, TensorFlow",
+    "date": "2026-05-07"
+  },
+  {
+    "id": 109,
+    "poste": "Data Engineer",
+    "ville": "Remote",
+    "contrat": "CDI",
+    "niveau": "Mid (2-5 ans)",
+    "salaire": 47460,
+    "competences": "Docker, dbt",
+    "date": "2026-04-26"
+  },
+  {
+    "id": 110,
+    "poste": "Analytics Engineer",
+    "ville": "Toulouse",
+    "contrat": "Freelance",
+    "niveau": "Mid (2-5 ans)",
+    "salaire": 46722,
+    "competences": "Python, Airflow, SQL, Power BI",
+    "date": "2026-05-10"
+  },
+  {
+    "id": 111,
+    "poste": "ML Engineer",
+    "ville": "Nantes",
+    "contrat": "Freelance",
+    "niveau": "Mid (2-5 ans)",
+    "salaire": 43899,
+    "competences": "Scikit-learn, Airflow",
+    "date": "2026-05-05"
+  },
+  {
+    "id": 112,
+    "poste": "BI Developer",
+    "ville": "Bordeaux",
+    "contrat": "Alternance",
+    "niveau": "Junior (0-2 ans)",
+    "salaire": 35073,
+    "competences": "Airflow, Python, Tableau",
+    "date": "2026-05-10"
+  },
+  {
+    "id": 113,
+    "poste": "Data Engineer",
+    "ville": "Toulouse",
+    "contrat": "Stage",
+    "niveau": "Senior (5+ ans)",
+    "salaire": 62293,
+    "competences": "SQL, Python, Tableau",
+    "date": "2026-04-26"
+  },
+  {
+    "id": 114,
+    "poste": "BI Developer",
+    "ville": "Paris",
+    "contrat": "Alternance",
+    "niveau": "Junior (0-2 ans)",
+    "salaire": 37091,
+    "competences": "SQL, Tableau, TensorFlow",
+    "date": "2026-05-04"
+  },
+  {
+    "id": 115,
+    "poste": "ML Engineer",
+    "ville": "Remote",
+    "contrat": "CDI",
+    "niveau": "Junior (0-2 ans)",
+    "salaire": 34522,
+    "competences": "Spark, dbt, Airflow, Tableau",
+    "date": "2026-05-11"
+  },
+  {
+    "id": 116,
+    "poste": "Data Scientist",
+    "ville": "Toulouse",
+    "contrat": "CDI",
+    "niveau": "Mid (2-5 ans)",
+    "salaire": 51031,
+    "competences": "Scikit-learn, Power BI, SQL, TensorFlow",
+    "date": "2026-04-24"
+  },
+  {
+    "id": 117,
+    "poste": "BI Developer",
+    "ville": "Bordeaux",
+    "contrat": "Freelance",
+    "niveau": "Mid (2-5 ans)",
+    "salaire": 47568,
+    "competences": "Spark, TensorFlow",
+    "date": "2026-04-22"
+  },
+  {
+    "id": 118,
+    "poste": "Analytics Engineer",
+    "ville": "Toulouse",
+    "contrat": "Freelance",
+    "niveau": "Senior (5+ ans)",
+    "salaire": 77002,
+    "competences": "Airflow, Scikit-learn",
+    "date": "2026-05-03"
+  },
+  {
+    "id": 119,
+    "poste": "BI Developer",
+    "ville": "Nantes",
+    "contrat": "CDD",
+    "niveau": "Mid (2-5 ans)",
+    "salaire": 47446,
+    "competences": "Docker, Tableau, Scikit-learn",
+    "date": "2026-04-30"
+  },
+  {
+    "id": 120,
+    "poste": "ML Engineer",
+    "ville": "Paris",
+    "contrat": "CDI",
+    "niveau": "Mid (2-5 ans)",
+    "salaire": 45826,
+    "competences": "Airflow, dbt, Scikit-learn, Docker",
+    "date": "2026-04-23"
+  }
+]
